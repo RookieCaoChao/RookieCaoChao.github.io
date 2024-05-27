@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '郑之杰的个人网站'
+title: '曹超个人学习网站'
 description: '为天地立心, 为生民立命, 为往圣继绝学, 为万世开太平'
-keyword: '数学, 机器学习, 深度学习'
+keyword: '数学, 机器学习, 深度学习, 多模态'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -24,11 +24,11 @@ footer:
   since: 2020
 
 # Author 配置博主信息
-author: '郑之杰'
-nickname: '之杰'
-bio: '热爱旅行家，深度学习者'
+author: '曹超'
+nickname: '超'
+bio: '热爱骑行家，深度学习者'
 #avatar: 'https://github.com/0809zheng/0809zheng.github.io/blob/master/assets/icons/icon.jpg?raw=true'
-avatar: 'https://pic.imgdb.cn/item/6184e14b2ab3f51d912026fc.jpg'
+avatar: 'https://pic3.zhimg.com/v2-bd82b067239a20d6ba33d171154a8916_r.jpg'
 
 # Search 关键词搜索
 search: true
@@ -42,11 +42,11 @@ comments:
   disqus_url: 'https://liaokeyu.disqus.com/embed.js'
   
   gitalk: true
-  gitalk_clientID: 'd45b6dcdac0458c21c03'
-  gitalk_Secret: '875ea1d909ddd834f6e6dc7448d0616eec1096a2'
-  gitalk_repo: '0809zheng.github.io'
-  gitalk_owner: '0809zheng'
-  gitalk_admin: '0809zheng'
+  gitalk_clientID: 'Ov23liXiJCYH3IxA3q24'
+  gitalk_Secret: '77dada0350351a7ee103e67f908092b90635ff37'
+  gitalk_repo: 'cc24.github.io'
+  gitalk_owner: 'cc'
+  gitalk_admin: 'cc'
   distractionFreeMode: true
 
 # MathJax 公式支持 by Ray-Eldath
@@ -65,9 +65,9 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  github: '//github.com/0809zheng'
-  weibo: '//weibo.com/u/5627414506'
-  zhihu: '//zhihu.com/people/zheng-zhi-jie-36'
+  github: '//github.com/RoockieCaoChao'
+  #weibo: '//weibo.com/u/5627414506'
+  #zhihu: '//zhihu.com/people/zheng-zhi-jie-36'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
