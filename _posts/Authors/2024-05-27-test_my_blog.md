@@ -1,9 +1,0 @@
----
-layout: post
-title: 'test_my_blog'
-subtitle: '或许是最漂亮的Jekyll主题'
-date: 2024-05-27
-categories: 技术
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
-tags: jekyll 前端开发 设计
----
