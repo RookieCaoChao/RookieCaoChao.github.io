@@ -44,7 +44,7 @@ comments:
   gitalk: true
   gitalk_clientID: 'Ov23liXiJCYH3IxA3q24'
   gitalk_Secret: '77dada0350351a7ee103e67f908092b90635ff37'
-  gitalk_repo: 'cc24.github.io'
+  gitalk_repo: 'rookiecaochao.github.io'
   gitalk_owner: 'cc'
   gitalk_admin: 'cc'
   distractionFreeMode: true
